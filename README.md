@@ -1,6 +1,6 @@
 # A Brain F*** interpreter 🧠 written in c++
 
-## What is Brani F*** ?
+## What is Brain F*** ?
 
 
 <br>
