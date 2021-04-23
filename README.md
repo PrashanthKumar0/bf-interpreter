@@ -5,7 +5,8 @@
 
 <br>
 
-    Brain F*** is  a esoteric programming language which just means its not well known as other languages
+    Brain F*** is  a esoteric programming language 
+    which just means its not well known as other languages
 
 
 > for further details about the language have a look at <a href="https://en.wikipedia.org/wiki/Brainfuck">This Wikipedia Page</a>
@@ -18,7 +19,9 @@
 
 <br>
 
-    This language is really challenging and exciting to code in. You would get a great excitement while developing some new techinques and its good to test and practice your algorithm and problem solving skills.
+    This language is really challenging and exciting to code in.
+    You would get a great excitement while developing some new techinques 
+    and its good to test and practice your algorithm and problem solving skills.
 
 > although brain f*** is not used in real world programming . imo its good for even beginners to start thinking logically. and it helps to learn a lots of tactics for intermediates.
 
@@ -30,7 +33,9 @@
 
 <br>
 
-    This interpreter is a little playground for working with brain f*** . It has a nice interactive mode which has some nice features 
+    This interpreter is a little playground for 
+    working with brain f*** . It has a nice interactive mode 
+    which has some nice features 
     (new ideas are always welcomed)
 
 
