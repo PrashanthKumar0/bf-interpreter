@@ -63,13 +63,13 @@
 use the following command :
 
 ## on windows
-<code> g++ ./bf_interpreter -o ./bf_interpreter.exe </code>
+<code> g++ ./bf_interpreter.cpp -o ./bf_interpreter.exe </code>
 
 or run <a href="./automake.bat">./automake.bat</a>
 
 
 ## on linux
-<code> g++ ./bf_interpreter -o ./bf_interpreter </code>
+<code> g++ ./bf_interpreter.cpp -o ./bf_interpreter </code>
 <code>chmod +x ./bf_interpreter </code>
 
     the ./bf folder contains some sample brain f*** programs
