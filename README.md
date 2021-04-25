@@ -74,7 +74,7 @@ or run <a href="./automake.bat">./automake.bat</a>
 and make it executabe by
 <code>chmod +x ./bf_interpreter </code>
 <br>
-its recommend to copy it in /bin or /usr/bin or change  <kbd>  $PATH <kbd>environment variable
+its recommend to copy it in /bin or /usr/bin or change  <kbd>  $PATH </kbd>environment variable
   <br>
 > the ./bf folder contains some sample brain f*** programs
 
