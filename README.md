@@ -1,5 +1,7 @@
 # A Brain F*** interpreter 🧠 written in c++
 
+![Build status](https://github.com/Pro465/bf-interpreter/actions/workflows/test.yml/badge.svg)
+
 ## What is Brain F*** ?
 
 
