@@ -7,8 +7,8 @@
 
 <br>
 
-    Brain F*** is  a esoteric programming language 
-    which just means its not well known as other languages
+    Brain F*** is an esoteric (or 'joke') programming language
+    which just means it was designed to be a joke among programming nerds
 
 
 > for further details about the language have a look at <a href="https://en.wikipedia.org/wiki/Brainfuck">This Wikipedia Page</a>
@@ -48,14 +48,14 @@
 
 > * Execute A brain f*** file with <code> bf_interpreter.exe -f ./fielName.bf </code>
 
-* Interactive mode with rich IDE like experience  the interactive mode has following commands 
-    * <code> @exit </code> to exit the program
-    * <code> @clear </code> clears the screen
-    * <code> @reset </code> resets all cells and move data pointer to 0
-    * <code> @cell_used </code> prints number of cells used by the program
-    * <code> @init_log  [fileName.bf] </code> logs the commands you enter into the file filename.bf
-    * <code> @stop_log </code> stops logging in the file
-    * <code> @help  </code> prints all these commands for help if you stuck in 
+* __Interactive mode with rich IDE like experience__  the interactive mode has following commands 
+    * <code> @exit</code> to exit the program
+    * <code> @clear</code> clears the screen
+    * <code> @reset</code> resets all cells and move data pointer to 0
+    * <code> @cell_used</code> prints number of cells used by the program
+    * <code> @init_log  [fileName.bf]</code> logs the commands you enter into the file filename.bf
+    * <code> @stop_log</code> stops logging in the file
+    * <code> @help</code> prints all these commands for help if you are stuck
 
 <br>
 <br>
@@ -73,12 +73,12 @@ or run <a href="./automake.bat">./automake.bat</a>
 ## on linux
 <code> g++ ./bf_interpreter.cpp -o ./bf_interpreter </code>
 <br>
-and make it executabe by
+and make it executable by
 <code>chmod +x ./bf_interpreter </code>
 <br>
-its recommend to copy it in /bin or /usr/bin or change  <kbd>  $PATH </kbd>environment variable
+its recommended to copy it in /bin or /usr/bin or change <kbd>$PATH</kbd> environment variable
   <br>
-> the ./bf folder contains some sample brain f*** programs
+> the [./bf](./bf) folder contains some sample brain f*** programs
 
 
 
