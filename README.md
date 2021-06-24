@@ -1,6 +1,6 @@
 # A Brain F*** interpreter 🧠 written in c++
 
-![Build status](https://github.com/Pro465/bf-interpreter/actions/workflows/build-test.yml/badge.svg)
+![Build status](https://github.com/prashanthKumar0/bf-interpreter/actions/workflows/build-test.yml/badge.svg)
 
 ## What is Brain F*** ?
 
