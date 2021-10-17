@@ -124,8 +124,10 @@ int executeString(std::string& code,int from=0,int firstTime=1){
 	    if(!firstTime) {
                 return i;
 	    }
-	    std::cerr<<"ERROR: unexpected ']' at position " << i << std::endl;
-	    exit(101);
+	    else {
+		std::cerr<<"ERROR: unexpected ']' at position " << i << std::endl;
+		exit(101);
+	    }
         }
 
         //.
