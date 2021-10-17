@@ -120,9 +120,14 @@ int executeString(std::string& code,int from=0,int firstTime=1){
             continue;
         }
         //]
-        if(instruction==loop_end && !firstTime){
-            return i;
+        if(instruction==loop_end){
+	    if(!firstTime) {
+                return i;
+	    }
+	    std::cerr<<"ERROR: unexpected ']' at position " << i << std::endl;
+	    exit(101);
         }
+
         //.
         if(instruction==print){
                 std::cout<<(char)(stack[data_pointer]); 
